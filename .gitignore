@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Snowflake credentials
+*.p8
+*.pem
+credentials.json
+connection.toml
+
+# Data files
+*.csv
+*.parquet
+*.xlsx
+
+# Logs
+*.log
